@@ -1,6 +1,6 @@
 # SparsePR
 
-This MATLAB package provides implementations of a fast second-order algorithm based on Newton projection [1] for sparse phase retrieval.
+This MATLAB package provides implementations of a fast second-order algorithm based on Newton projection [1] for **sparse phase retrieval**.
 
 The algorithm consists of two stages:
 
