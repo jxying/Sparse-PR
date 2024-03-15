@@ -6,7 +6,7 @@ The algorithm consists of two stages:
 
 1. Initialization: The first stage generates an initial estimate that is close to the ground truth signal, using the sparse spectral initialization method proposed in [2].
 
-2. Refinement: The second stage refines the initial estimate to obtain the ground truth signal, using our algorithm proposed in [1].
+2. Refinement: The second stage refines the initial estimate to obtain the ground truth signal, using our proposed second-order algorithm.
 
 
 ## To run the code:
