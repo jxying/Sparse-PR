@@ -1,6 +1,6 @@
 # SparsePR (Sparse Phase Retrieval)
 
-This MATLAB package provides implementations of a fast second-order algorithm based on Newton projection [1] for sparse phase retrieval.
+This MATLAB package includes implementations of a fast second-order algorithm that utilizes a Newton-type method with hard thresholding for sparse phase retrieval, as proposed in [1].
 
 The algorithm consists of two stages:
 
@@ -15,6 +15,6 @@ The algorithm consists of two stages:
 
 
 ## References
-[1] Jian-Feng Cai, Yu Long, Ruixue Wen, and Jiaxi Ying, "A Fast and Provable Algorithm for Sparse Phase Retrieval", in nternational Conference on Learning Representations (ICLR), 2024.
+[1] Jian-Feng Cai, Yu Long, Ruixue Wen, and Jiaxi Ying, "A Fast and Provable Algorithm for Sparse Phase Retrieval", in International Conference on Learning Representations (ICLR), 2024.
 
 [2] Gauri Jagatap, and Chinmay Hegde, "Sample-Efficient Algorithms for Recovering Structured Signals From Magnitude-Only Measurements," in IEEE Transactions on Information Theory, vol. 65, no. 7, pp. 4434-4456, July 2019.
